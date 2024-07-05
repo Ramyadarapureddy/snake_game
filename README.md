@@ -21,7 +21,7 @@ pip install tkcolorpicker
 
 bash
 Copy code
-git clone https://github.com/yourusername/snake-game.git
+git clone(https://github.com/Ramyadarapureddy/snake_game.git)
 
 **Run the game:**
 
